@@ -1,4 +1,4 @@
-# dms
+# Document Management System (DMS)
 
 A Document Management System (DMS) is a software solution designed to store, organize, manage, and track electronic documents and files. It provides a centralized repository for storing and accessing documents, making it easier for organizations to manage their digital assets and streamline document-related processes. Here are some key features and benefits of a Document Management System:
 
