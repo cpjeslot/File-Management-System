@@ -67,9 +67,8 @@ if (curl_errno($ch)) {
 // Close cURL session
 curl_close($ch);
 
-```php
-<?php
-
+?>
+```
 Replace 'https://example.com/upload' with the actual API endpoint.
 Replace 'YOUR_API_KEY' with your actual API key.
 Replace 'file.pdf' with the name of the file you want to upload.
