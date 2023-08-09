@@ -32,8 +32,7 @@ Sure, I can provide you with an example of how to upload a file using an API in 
 
 Assuming you have an API endpoint for file uploads: https://example.com/upload and you want to upload a file named file.pdf located in the same directory as your PHP script, here's how you can do it:
 
-php
-Copy code
+```php
 <?php
 
 $apiEndpoint = 'https://example.com/upload';
@@ -68,8 +67,8 @@ if (curl_errno($ch)) {
 // Close cURL session
 curl_close($ch);
 
-?>
-In this PHP script:
+```php
+<?php
 
 Replace 'https://example.com/upload' with the actual API endpoint.
 Replace 'YOUR_API_KEY' with your actual API key.
